@@ -44,7 +44,10 @@ const Main_Nav = (props) => {
               <NavLink to="/services" className="nav-link">
                 Services
               </NavLink>
-
+              
+              <NavLink to="/blog" className="nav-link">
+                Protfolio
+              </NavLink>
               <NavLink to="/blog" className="nav-link">
                 Blog
               </NavLink>

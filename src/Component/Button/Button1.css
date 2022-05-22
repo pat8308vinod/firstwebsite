@@ -1,0 +1,22 @@
+
+
+
+.button-1 {
+  display: inline-block;
+    background-color: #03a4ed;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 12px 25px;
+    border-radius: 23px;
+    letter-spacing: 0.25px;
+    transition: all .3s;
+    text-decoration: none;
+    
+  
+}
+.button-1:hover{
+ background-color: #ff695f;
+ color: #fff;
+}

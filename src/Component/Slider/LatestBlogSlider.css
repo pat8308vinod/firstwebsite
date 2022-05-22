@@ -1,0 +1,16 @@
+.alice-carousel__next-btn-wrapper{
+    float: right;
+    margin-top: -40%;
+    right: -10px;
+    margin-right: -40px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.alice-carousel__prev-btn-wrapper{
+    float: left;
+    margin-top: -40%;
+    left: -10px;
+    margin-left: -40px;
+    font-size: 30px;
+    font-weight: 400;
+}

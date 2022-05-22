@@ -1,0 +1,21 @@
+#services{
+    
+ max-width: 100%;
+ overflow-x: hidden;
+ 
+}
+.service-row{
+  background: linear-gradient(to bottom,#ff695f, #03a4ed);
+}
+.section-heading {
+    font-size: 30px;
+        text-transform: capitalize;
+        color: #2a2a2a;
+        font-weight: 700;
+        letter-spacing: 0.25px;
+        position: relative;
+        z-index: 2;
+        line-height: 44px;
+        margin-bottom: -5px;}
+
+    

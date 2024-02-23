@@ -3,9 +3,9 @@ import React from "react";
 function FAbout() {
   return (
     <>
-      <h4 className="fw-bold" style={{color:"#03a4ed"}}>About <span className="span-1">LeadTronics</span></h4>
+      <h4 className="fw-bold" style={{color:"#03a4ed"}}>About <span className="span-1">Company</span></h4>
       <p>
-        LeadTronics is a tech-enabled digital marketing solutions provider, and
+        Company is a tech-enabled digital marketing solutions provider, and
         create custom strategies for our clients as per their goals and needs.
       </p>
       <p>

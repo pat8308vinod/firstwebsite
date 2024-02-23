@@ -26,7 +26,7 @@ const Blog = () => {
         <h2 className="text-center mb-4 blog-heading d-flex align-items-center justify-content-center">
           Our{" "}
           <span style={{ color: "#03a4ed" }} className="ms-1">
-            Blog
+            Blogs
           </span>
         </h2>
         <div class="area" >
